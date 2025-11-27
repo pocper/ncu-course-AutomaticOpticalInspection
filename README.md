@@ -68,7 +68,9 @@
 
 - week05
   - 練習1
-    > 試以費馬定理推算出折射定律：$n_i\sin{\theta_i}=n_r\sin{\theta_r}$，請寫下推算過程，轉成pdf檔上傳表單。
+    > 試以費馬定理推算出折射定律，請寫下推算過程，轉成pdf檔上傳表單。
+    
+    費馬定理方程式為$n_i\sin{\theta_i}=n_r\sin{\theta_r}$
     $$\mathbf{t} = \frac{l_i}{v_i} + \frac{l_r}{v_r} = \frac{\sqrt{x^2 + h^2}}{\frac{c}{n_i}} + \frac{\sqrt{(L-x)^2 + h^2}}{\frac{c}{n_r}}$$
     ![ex1_question](./week05/ex1.jpg)
   - 練習2

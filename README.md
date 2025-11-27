@@ -76,7 +76,8 @@
     > $$\begin{equation}
     M_{Lens} = 
     \left(\begin{array}{cc} a & b\\ c & d \end{array}\right)
-    \end{equation}$$a = ?, b = ?, c = ?, d = ?
+    \end{equation}$$
+    a = ?, b = ?, c = ?, d = ?
     ![ex3_question](./week05/ex3.jpg)
   - 作業4
     > 如下圖的雙薄透鏡系統。試寫一程式，求出 x, 𝛼
@@ -210,8 +211,8 @@
     ![ex2_2_question](./week14/0609_circleCam1.jpg)
   - 練習3
     > 兩台相機焦距分別為fL0=867與fL1=544 (單位pixel)，相距10cm。以兩相機中點為座標原點，計算畫面中黑色方塊的座標(xyz)。
-    ![ex3_1_question](./week14/0609Cam0.jpg)
-    ![ex3_2_question](./week14/0609Cam1.jpg)
+    ![ex3_1_question](./week14/0609cam0.jpg)
+    ![ex3_2_question](./week14/0609cam1.jpg)
   - 練習4
     > 利用前頁程式範例，找出畫面中著藍色洋裝女士的uv座標
     ![ex4_question](./week14/traffic0609_2.jpg)
